@@ -1,0 +1,5 @@
+{
+  ".workspace .editor:not(.mini)": {
+    "cmd-shift-e": "html-wrapper:wrapp"
+  }
+}

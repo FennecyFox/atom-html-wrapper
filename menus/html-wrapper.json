@@ -1,0 +1,25 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "HTML Wrapper",
+        "command": "html-wrapper:wrapp"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [{
+        "label": "HTML Wrapper",
+        "submenu": [
+          {
+            "label": "Wrapp",
+            "command": "html-wrapper:wrapp"
+          }
+        ]
+      }
+      ]
+    }
+  ]
+}
