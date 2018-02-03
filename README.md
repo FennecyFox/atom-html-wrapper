@@ -1,7 +1,6 @@
-#Atom html-wrapper package
-====================
+# Atom html-wrapper package
 
-html-wrapper is a Atom Package that formats <ul>, <ol>, <nav>, <tr> and <select> children tags with a single command.
+html-wrapper is a Atom Package that formats &lt;ul&gt;, &lt;ol&gt;, &lt;nav&gt;, &lt;tr&gt; and &lt;select&gt; children tags with a single command.
 
 ## Live demo
 
@@ -10,7 +9,7 @@ html-wrapper is a Atom Package that formats <ul>, <ol>, <nav>, <tr> and <select>
 ![html-wrapper demo](http://i.imgur.com/SZkTO7s.gif)
 
 ### How to use
-1. Select a clean list of itens separated by a carriage return
+1. Select a clean list of items separated by a carriage return
 2. Right click on the selection and click on the "HTML Wrapper" option
 3. Or use the shortcut CMD/CTRL+SHIFT+E
 
